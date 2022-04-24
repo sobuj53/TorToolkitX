@@ -333,7 +333,7 @@ Steps:-
 
 ## Commands
 
-    leech - To Leech a torrent or download a direct link
+    dnld - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
     pytdl - Download YouTube Playlist
     about - About the bot
